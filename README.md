@@ -28,7 +28,6 @@ Stryde is a fictional US sportswear brand selling athletic and street footwear a
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1A3A5C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-1A3A5C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-1A3A5C?style=for-the-badge&logo=tableau&logoColor=white"/>
   &nbsp;
   <a href="https://github.com/DavidL001/Stryde">
@@ -48,9 +47,4 @@ Stryde is a fictional US sportswear brand selling athletic and street footwear a
 
 ### Let's Connect
 
-<table border="0" align="center" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center" style="border:none"><a href="https://www.linkedin.com/in/davidlugo001/" target="_blank"><img src="https://img.icons8.com/color/96/linkedin-circled--v1.png" width="75"/></a></td>
-    <td align="center" style="border:none"><a href="mailto:dlugo019@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/gmail-new.png" width="75"/></a></td>
-  </tr>
-</table>
+<p align="center"><a href="https://www.linkedin.com/in/davidlugo001/" target="_blank"><img src="images/linkedin_icon.png" width="90"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:dlugo019@gmail.com" target="_blank"><img src="images/gmail_icon.png" width="90"/></a></p>
