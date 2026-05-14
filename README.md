@@ -27,7 +27,7 @@ Data Analyst with hands-on experience in health analytics and business intellige
 Stryde is a fictional US sportswear brand selling athletic and street footwear and apparel across five regions through six retail partners. Tasked by the Head of Operations, I evaluated commercial performance from 2022 to 2023, identified what was driving the numbers, and built a 2024 forecast; including a scenario that modeled what would happen if resources were pulled from the weakest retail partners and put behind the strongest ones.
 
 <p align="left">
-<img src="https://img.shields.io/badge/SQL-1A3A5C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1A3A5C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-1A3A5C?style=for-the-badge&logo=tableau&logoColor=white"/>
   &nbsp;
   <a href="https://github.com/DavidL001/Stryde">
